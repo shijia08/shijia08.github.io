@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+# 这是 _config.yml 文件的内容
+
+# 把下面的 "你的博客标题" 换成你想要的名字
+title: Shi Jia
+
+# 把下面的 "你的博客描述" 换成一句话简介
+description: 记录学习、思考与生活的地方
+
+# 这是你之前设置的主题，保留它
+theme: jekyll-theme-cayman 
